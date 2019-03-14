@@ -1,3 +1,3 @@
 # Java-APP
 
-http://bweggers.com/java2/todo.html
+http://bweggers.com/todo/todo.html
